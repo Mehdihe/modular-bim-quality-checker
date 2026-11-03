@@ -1,1 +1,10 @@
 
+component_id,discipline,component_type,material,length,width,height,unit
+ST-001,Structure,Beam,Steel,9000,200,300,mm
+ST-002,Structure,Column,Steel,3000,200,200,mm
+ST-003,Structure,Brace,Steel,2500,100,100,mm
+AR-001,Architecture,Wall,Wood,9000,140,3000,mm
+ME-001,Mechanical,Duct,Steel,5000,300,200,mm
+ST-001,Structure,Beam,Steel,6000,200,300,mm
+ST-004,Structure,Column,Steel,-3000,200,200,mm
+
